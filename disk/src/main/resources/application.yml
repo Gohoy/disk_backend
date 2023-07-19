@@ -1,0 +1,24 @@
+minio:
+  endpoint: http://47.120.38.62:9090 #Minio服务所在地址
+  accessKey: gohoy
+  secretKey: 12345678
+spring:
+  datasource:
+#    username: root
+#    password: 040424
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/diskManage?user=root&password=040424&useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai
+  redis:
+    host: localhost
+  servlet:
+    multipart:
+      max-file-size: 2000MB
+      max-request-size: 2000MB
+  rabbitmq:
+    port: 5672
+    host: localhost
+    username: guest
+    password: guest
+    virtual-host: /
+mybatis:
+  mapper-locations: classpath:mapper/*.xml

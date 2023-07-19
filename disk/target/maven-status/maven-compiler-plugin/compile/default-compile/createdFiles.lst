@@ -1,0 +1,11 @@
+org\example\vo\FormatType.class
+org\example\DiskApplication.class
+org\example\config\RedisConfig.class
+org\example\controller\type\TypeController.class
+org\example\entity\Type.class
+org\example\service\impl\TypeServiceImpl.class
+org\example\controller\file\ResultType.class
+org\example\dao\TypeDao.class
+org\example\vo\TypeVO.class
+org\example\controller\file\MinioController.class
+org\example\service\TypeService.class

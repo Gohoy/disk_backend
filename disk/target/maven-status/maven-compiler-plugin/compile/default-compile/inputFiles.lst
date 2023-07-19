@@ -1,0 +1,11 @@
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\config\RedisConfig.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\service\TypeService.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\dao\TypeDao.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\controller\type\TypeController.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\DiskApplication.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\vo\TypeVO.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\vo\FormatType.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\controller\file\MinioController.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\entity\Type.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\controller\file\ResultType.java
+D:\documents\ideaprojects\myDisk\disk\src\main\java\org\example\service\impl\TypeServiceImpl.java
